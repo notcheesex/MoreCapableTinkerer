@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <MoreCapableTinkerer_SettingsCategory>More Capable Tinkerer</MoreCapableTinkerer_SettingsCategory>
-  <MoreCapableTinkerer_SettingsHelp>Choose which jobs the tinkerer can do. Changes apply when settings are saved.</MoreCapableTinkerer_SettingsHelp>
+  <MoreCapableTinkerer_SettingsHelp>Choose which jobs the tinkerer can do.</MoreCapableTinkerer_SettingsHelp>
   <MoreCapableTinkerer_SkillLevelLabel>Skill level</MoreCapableTinkerer_SkillLevelLabel>
   <MoreCapableTinkerer_SkillLevelTooltip>Sets this entry's skill level.</MoreCapableTinkerer_SkillLevelTooltip>
   <MoreCapableTinkerer_ResetToDefaultsLabel>Reset to defaults</MoreCapableTinkerer_ResetToDefaultsLabel>
