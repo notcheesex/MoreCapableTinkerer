@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThinkTreeDef[defName="VQE_Drone"]/thinkRoot/subNodes/li[@Class="VanillaQuestsExpandedDroneFactory.ThinkNode_ConditionalPawnKindList"][pawnKinds/li="VQE_CraftingDroneKindDef"]/subNodes/li[@Class="VanillaQuestsExpandedDroneFactory.JobGiver_DoWork"]/workTypes</xpath>
+        <value>
+          <workTypes>
+            <li>Crafting</li>
+            <li>Smithing</li>
+            <li>Tailoring</li>
+          </workTypes>
+        </value>
+      </li>
+
+      <li Class="PatchOperationConditional">
+        <xpath>/Defs/ThinkTreeDef[defName="VQE_Drone"]/thinkRoot/subNodes/li[@Class="VanillaQuestsExpandedDroneFactory.ThinkNode_ConditionalPawnKindList"][pawnKinds/li="VQE_CraftingDroneKindDef"]/subNodes/li[@Class="VanillaQuestsExpandedDroneFactory.JobGiver_DoWork"]/workgivers</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>/Defs/ThinkTreeDef[defName="VQE_Drone"]/thinkRoot/subNodes/li[@Class="VanillaQuestsExpandedDroneFactory.ThinkNode_ConditionalPawnKindList"][pawnKinds/li="VQE_CraftingDroneKindDef"]/subNodes/li[@Class="VanillaQuestsExpandedDroneFactory.JobGiver_DoWork"]/workgivers</xpath>
+          <value>
+            <workgivers>
+              <li>Repair</li>
+              <li>FixBrokenDownBuilding</li>
+            </workgivers>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>/Defs/ThinkTreeDef[defName="VQE_Drone"]/thinkRoot/subNodes/li[@Class="VanillaQuestsExpandedDroneFactory.ThinkNode_ConditionalPawnKindList"][pawnKinds/li="VQE_CraftingDroneKindDef"]/subNodes/li[@Class="VanillaQuestsExpandedDroneFactory.JobGiver_DoWork"]</xpath>
+          <value>
+            <workgivers>
+              <li>Repair</li>
+              <li>FixBrokenDownBuilding</li>
+            </workgivers>
+          </value>
+        </nomatch>
+      </li>
+    </operations>
+  </Operation>
+</Patch>

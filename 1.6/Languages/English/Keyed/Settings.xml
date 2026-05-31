@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MoreCapableTinkerer_SettingsCategory>More Capable Tinkerer</MoreCapableTinkerer_SettingsCategory>
+  <MoreCapableTinkerer_SettingsHelp>Choose which jobs the tinkerer can do. Changes apply when settings are saved.</MoreCapableTinkerer_SettingsHelp>
+  <MoreCapableTinkerer_SkillLevelLabel>Skill level</MoreCapableTinkerer_SkillLevelLabel>
+  <MoreCapableTinkerer_SkillLevelTooltip>Sets this entry's skill level.</MoreCapableTinkerer_SkillLevelTooltip>
+  <MoreCapableTinkerer_ResetToDefaultsLabel>Reset to defaults</MoreCapableTinkerer_ResetToDefaultsLabel>
+  <MoreCapableTinkerer_ResetToDefaultsTooltip>Restores the default enabled work entries and all skill levels.</MoreCapableTinkerer_ResetToDefaultsTooltip>
+  <MoreCapableTinkerer_EnableCraftingLabel>Enable crafting work</MoreCapableTinkerer_EnableCraftingLabel>
+  <MoreCapableTinkerer_EnableCraftingTooltip>Allows tinkerer drones to use the Crafting work type.</MoreCapableTinkerer_EnableCraftingTooltip>
+  <MoreCapableTinkerer_EnableSmithingLabel>Enable smithing work</MoreCapableTinkerer_EnableSmithingLabel>
+  <MoreCapableTinkerer_EnableSmithingTooltip>Allows tinkerer drones to use the Smithing work type.</MoreCapableTinkerer_EnableSmithingTooltip>
+  <MoreCapableTinkerer_EnableTailoringLabel>Enable tailoring work</MoreCapableTinkerer_EnableTailoringLabel>
+  <MoreCapableTinkerer_EnableTailoringTooltip>Allows tinkerer drones to use the Tailoring work type.</MoreCapableTinkerer_EnableTailoringTooltip>
+  <MoreCapableTinkerer_EnableRepairLabel>Enable repair work</MoreCapableTinkerer_EnableRepairLabel>
+  <MoreCapableTinkerer_EnableRepairTooltip>Allows tinkerer drones to use the explicit Repair workgiver.</MoreCapableTinkerer_EnableRepairTooltip>
+  <MoreCapableTinkerer_EnableFixBrokenDownBuildingLabel>Enable broken-down building fixes</MoreCapableTinkerer_EnableFixBrokenDownBuildingLabel>
+  <MoreCapableTinkerer_EnableFixBrokenDownBuildingTooltip>Allows tinkerer drones to use the explicit FixBrokenDownBuilding workgiver.</MoreCapableTinkerer_EnableFixBrokenDownBuildingTooltip>
+  <MoreCapableTinkerer_EnableFirefighterLabel>Enable firefighting work</MoreCapableTinkerer_EnableFirefighterLabel>
+  <MoreCapableTinkerer_EnableFirefighterTooltip>Allows tinkerer drones to use the Firefighter work type.</MoreCapableTinkerer_EnableFirefighterTooltip>
+  <MoreCapableTinkerer_EnablePatientLabel>Enable patient work</MoreCapableTinkerer_EnablePatientLabel>
+  <MoreCapableTinkerer_EnablePatientTooltip>Allows tinkerer drones to use the Patient work type.</MoreCapableTinkerer_EnablePatientTooltip>
+  <MoreCapableTinkerer_EnableDoctorLabel>Enable doctor work</MoreCapableTinkerer_EnableDoctorLabel>
+  <MoreCapableTinkerer_EnableDoctorTooltip>Allows tinkerer drones to use the Doctor work type.</MoreCapableTinkerer_EnableDoctorTooltip>
+  <MoreCapableTinkerer_EnablePatientBedRestLabel>Enable bed rest work</MoreCapableTinkerer_EnablePatientBedRestLabel>
+  <MoreCapableTinkerer_EnablePatientBedRestTooltip>Allows tinkerer drones to use the PatientBedRest work type.</MoreCapableTinkerer_EnablePatientBedRestTooltip>
+  <MoreCapableTinkerer_EnableBasicWorkerLabel>Enable basic work</MoreCapableTinkerer_EnableBasicWorkerLabel>
+  <MoreCapableTinkerer_EnableBasicWorkerTooltip>Allows tinkerer drones to use the BasicWorker work type.</MoreCapableTinkerer_EnableBasicWorkerTooltip>
+  <MoreCapableTinkerer_EnableWardenLabel>Enable warden work</MoreCapableTinkerer_EnableWardenLabel>
+  <MoreCapableTinkerer_EnableWardenTooltip>Allows tinkerer drones to use the Warden work type.</MoreCapableTinkerer_EnableWardenTooltip>
+  <MoreCapableTinkerer_EnableHandlingLabel>Enable handling work</MoreCapableTinkerer_EnableHandlingLabel>
+  <MoreCapableTinkerer_EnableHandlingTooltip>Allows tinkerer drones to use the Handling work type.</MoreCapableTinkerer_EnableHandlingTooltip>
+  <MoreCapableTinkerer_EnableCookingLabel>Enable cooking work</MoreCapableTinkerer_EnableCookingLabel>
+  <MoreCapableTinkerer_EnableCookingTooltip>Allows tinkerer drones to use the Cooking work type.</MoreCapableTinkerer_EnableCookingTooltip>
+  <MoreCapableTinkerer_EnableHuntingLabel>Enable hunting work</MoreCapableTinkerer_EnableHuntingLabel>
+  <MoreCapableTinkerer_EnableHuntingTooltip>Allows tinkerer drones to use the Hunting work type.</MoreCapableTinkerer_EnableHuntingTooltip>
+  <MoreCapableTinkerer_EnableConstructionLabel>Enable construction work</MoreCapableTinkerer_EnableConstructionLabel>
+  <MoreCapableTinkerer_EnableConstructionTooltip>Allows tinkerer drones to use the Construction work type.</MoreCapableTinkerer_EnableConstructionTooltip>
+  <MoreCapableTinkerer_EnableGrowingLabel>Enable growing work</MoreCapableTinkerer_EnableGrowingLabel>
+  <MoreCapableTinkerer_EnableGrowingTooltip>Allows tinkerer drones to use the Growing work type.</MoreCapableTinkerer_EnableGrowingTooltip>
+  <MoreCapableTinkerer_EnableMiningLabel>Enable mining work</MoreCapableTinkerer_EnableMiningLabel>
+  <MoreCapableTinkerer_EnableMiningTooltip>Allows tinkerer drones to use the Mining work type.</MoreCapableTinkerer_EnableMiningTooltip>
+  <MoreCapableTinkerer_EnablePlantCuttingLabel>Enable plant cutting work</MoreCapableTinkerer_EnablePlantCuttingLabel>
+  <MoreCapableTinkerer_EnablePlantCuttingTooltip>Allows tinkerer drones to use the PlantCutting work type.</MoreCapableTinkerer_EnablePlantCuttingTooltip>
+  <MoreCapableTinkerer_EnableArtLabel>Enable art work</MoreCapableTinkerer_EnableArtLabel>
+  <MoreCapableTinkerer_EnableArtTooltip>Allows tinkerer drones to use the Art work type.</MoreCapableTinkerer_EnableArtTooltip>
+  <MoreCapableTinkerer_EnableHaulingLabel>Enable hauling work</MoreCapableTinkerer_EnableHaulingLabel>
+  <MoreCapableTinkerer_EnableHaulingTooltip>Allows tinkerer drones to use the Hauling work type.</MoreCapableTinkerer_EnableHaulingTooltip>
+  <MoreCapableTinkerer_EnableCleaningLabel>Enable cleaning work</MoreCapableTinkerer_EnableCleaningLabel>
+  <MoreCapableTinkerer_EnableCleaningTooltip>Allows tinkerer drones to use the Cleaning work type.</MoreCapableTinkerer_EnableCleaningTooltip>
+  <MoreCapableTinkerer_EnableResearchLabel>Enable research work</MoreCapableTinkerer_EnableResearchLabel>
+  <MoreCapableTinkerer_EnableResearchTooltip>Allows tinkerer drones to use the Research work type.</MoreCapableTinkerer_EnableResearchTooltip>
+  <MoreCapableTinkerer_EnableChildcareLabel>Enable childcare work</MoreCapableTinkerer_EnableChildcareLabel>
+  <MoreCapableTinkerer_EnableChildcareTooltip>Allows tinkerer drones to use the Childcare work type.</MoreCapableTinkerer_EnableChildcareTooltip>
+  <MoreCapableTinkerer_EnableDarkStudyLabel>Enable dark study work</MoreCapableTinkerer_EnableDarkStudyLabel>
+  <MoreCapableTinkerer_EnableDarkStudyTooltip>Allows tinkerer drones to use the DarkStudy work type.</MoreCapableTinkerer_EnableDarkStudyTooltip>
+  <MoreCapableTinkerer_EnableFishingLabel>Enable fishing work</MoreCapableTinkerer_EnableFishingLabel>
+  <MoreCapableTinkerer_EnableFishingTooltip>Allows tinkerer drones to use the Fishing work type.</MoreCapableTinkerer_EnableFishingTooltip>
+</LanguageData>

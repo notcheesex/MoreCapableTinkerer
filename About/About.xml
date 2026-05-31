@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>More Capable Tinkerer</name>
+  <author>cheesex</author>
+  <packageId>cheesex.MoreCapableTinkerer</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>vanillaquestsexpanded.dronefactory</packageId>
+      <displayName>Vanilla Quests Expanded - Drone Factory</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3733951755</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaquestsexpanded.dronefactory</li>
+  </loadAfter>
+  <description>Makes the Tinkerer drone more capable at crafting, smithing, tailoring, repair, and broken-down building fix work.</description>
+</ModMetaData>
